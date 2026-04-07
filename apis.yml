@@ -1,7 +1,12 @@
 aid: loews
-url: https://raw.githubusercontent.com/api-evangelist/loews/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/loews/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.loews.com
+description: >-
+  Loews Corporation is a diversified holding company with subsidiaries operating in
+  commercial property and casualty insurance, oil and gas drilling, natural gas pipelines,
+  hotels, and packaging products.
