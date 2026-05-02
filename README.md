@@ -1,33 +1,43 @@
-# Loews (loews)
-Loews is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Loews.
+# Loews Corporation (loews)
+
+Loews Corporation is a diversified holding company with subsidiaries operating in commercial property and casualty insurance (CNA Financial), natural gas pipelines (Boardwalk Pipelines), packaging products (Altium Packaging), and hotels (Loews Hotels). Loews Corporation does not currently publish a public developer API or developer portal; this index tracks the company website and consumer-facing properties for reference.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/loews/refs/heads/main/apis.yml)
 
 ## Scope
 
-- **Type:** Contract
+- **Type:** Index
 - **Position:** Consuming
 - **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Fortune 500
+- Conglomerate
+- Fortune 500
+- Holding Company
+- Hotels
+- Insurance
+- Natural Gas
+- Packaging
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No public APIs have been documented yet. Contributions welcome.
+No public APIs have been documented for Loews Corporation or its subsidiaries. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.loews.com)
+- [Loews Corporation Website](https://www.loews.com)
+- [Loews Hotels Website](https://www.loewshotels.com)
+- [CNA Insurance Website](https://www.cna.com)
+- [Boardwalk Pipelines Website](https://www.boardwalkpipelines.com)
 
 ## Maintainers
 
-**FN:** API Evangelist
+**FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
