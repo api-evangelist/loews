@@ -1,7 +1,9 @@
 ---
 title: RUCKUS Networks Launches AI-Driven Solutions for ...
 url: https://www.ruckusnetworks.com/press-releases/2024/ruckus-networks-launches-ai-driven-solutions-for-hospitality/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Loews" press release artificial intelligence'
 position: 2
 source: serpapi-google

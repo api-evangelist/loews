@@ -1,7 +1,9 @@
 ---
 title: LOEWS CORPORATION REPORTS NET INCOME OF ...
 url: https://www.prnewswire.com/news-releases/loews-corporation-reports-net-income-of-337-million-for-the-first-quarter-of-2026-302760239.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Loews" press release artificial intelligence'
 position: 1
 source: serpapi-google

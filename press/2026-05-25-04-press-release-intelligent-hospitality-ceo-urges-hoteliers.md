@@ -1,7 +1,9 @@
 ---
 title: 'Press Release: Intelligent Hospitality CEO Urges Hoteliers ...'
 url: https://www.hoteliq.io/hospitality-expertise/press-release-intelligent-hospitality-ceo-urges-hoteliers-to-leverage-their-data
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Loews" press release artificial intelligence'
 position: 4
 source: serpapi-google
