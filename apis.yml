@@ -1,5 +1,5 @@
 aid: loews
-name: Loews Corporation
+name: Loews
 description: >-
   Loews Corporation is a diversified holding company with subsidiaries operating
   in commercial property and casualty insurance (CNA Financial), natural gas
@@ -60,3 +60,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Loews Corporation
